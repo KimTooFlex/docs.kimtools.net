@@ -1,5 +1,8 @@
 # Table of contents
 
+* [🟣    Home](https://kimtoo.net)
+* [🟢   Download](https://kimtoo.net/#pricing)
+
 ## Get Started
 
 * [🔹 Welcome](README.md)
