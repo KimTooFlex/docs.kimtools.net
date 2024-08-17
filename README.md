@@ -70,6 +70,20 @@ Explore the possibilities and elevate your WinForms applications with KimTools S
 
 
 
+## 🆕 Introducing KimTools CLT (Cross-Language Translation)
+
+Imagine designing and exporting your existing KimTools Forms, Components, Pages, and Widgets with a few clicks, converting them From KimTools Vs Designer to other languages or frameworks.&#x20;
+
+Whether you’re working with <mark style="color:green;">**WinForms**</mark>, <mark style="color:blue;">**NEXT.js**</mark>**,** <mark style="color:purple;">**MAUI**</mark>, <mark style="color:blue;">**ASP.NET**</mark>, <mark style="color:purple;">**Blazor**</mark>, <mark style="color:orange;">**Laravel-Livewire**</mark> or <mark style="color:yellow;">**Python**</mark>, KimTools will sync your components in real-time providing live-preview and hot-reload. KimTools CLT ensures that your designs retain their precision and responsiveness across different environments.
+
+<figure><img src=".gitbook/assets/kimtools-vector-panel.gif" alt=""><figcaption></figcaption></figure>
+
+By leveraging vector-based controls, KimTools CLT delivers unparalleled flexibility and scalability, enabling your applications to look vector sharp and perform seamlessly on any platform. Embrace the future of development with the power of KimTools CLT and experience the ultimate in "Build Once, Deploy Everywhere" efficiency.
+
+**KimTools CLT** is the perfect solution for developers who are familiar with Visual Studio and want to quickly build UIs for multiple platforms without the need to learn new tools or frameworks. Whether you’re a fan of the drag-and-drop WYSIWYG approach or prefer the convenience of KimTools’ No-Code Tools, KimTools CLT empowers you to create consistent, high-quality interfaces across all your applications.
+
+Embrace the power of KimTools and streamline your development process like never before.
+
 ## 🔹 Highlighted Features
 
 ***
