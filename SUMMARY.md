@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🟣    Home](https://kimtoo.net)
-* [🟢   Download](https://kimtoo.net/#pricing)
+* [🟢   Download](https://kimtooflex.gumroad.com/l/kimtools)
 
 ## Get Started
 
