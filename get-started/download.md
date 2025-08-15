@@ -1,22 +1,11 @@
 ---
 hidden: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🔹 Download
 
 {% hint style="info" %}
-#### Ki**mTools DevKit  is currently in **<mark style="color:orange;">**Beta**</mark>
+#### Ki**mTools DevKit  is currently in&#x20;**<mark style="color:orange;">**Beta**</mark>
 {% endhint %}
 
 KimTools is in early release and will be publicly available soon. Get early access at 80% off and receive bonus ready-made project templates to get you started, plus a lifetime license. Price is subject to change.
