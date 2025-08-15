@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/big-idea-banner.gif
-coverY: 229.2666666666667
----
-
 # 🔹 Welcome
 
 <figure><img src=".gitbook/assets/3d-box-md.png" alt=""><figcaption></figcaption></figure>
