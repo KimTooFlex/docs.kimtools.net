@@ -3,7 +3,8 @@
 ## Get Started
 
 * [🔹 Welcome](README.md)
-* [🔹 Download](get-started/download.md)
+* [🔹 Download](get-started/download/README.md)
+  * [Bunifu](get-started/download/bunifu.md)
 * [🔹 Requirements ](get-started/requirements.md)
 * [🔹 Install & Upgrade](get-started/install-and-upgrade.md)
 
