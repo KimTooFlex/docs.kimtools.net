@@ -6,11 +6,10 @@
 * [🔹 Download](get-started/download.md)
 * [🔹 Requirements ](get-started/requirements.md)
 * [🔹 Install & Upgrade](get-started/install-and-upgrade.md)
-* [🔹 Roadmap](get-started/roadmap.md)
 
-## TOOLS
+## CONTROLS
 
-* [🟣  Ui](tools/ui/README.md)
-  * [🔹 Coming Soon...](tools/ui/coming-soon....md)
-* [🔵  Components](tools/components/README.md)
-  * [🔹 Coming Soon...](tools/components/coming-soon....md)
+* [🟣  Ui](controls/ui/README.md)
+  * [🔹 Coming Soon...](controls/ui/coming-soon....md)
+* [🔵  Components](controls/components/README.md)
+  * [🔹 Coming Soon...](controls/components/coming-soon....md)
