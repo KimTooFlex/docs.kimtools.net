@@ -1,8 +1,5 @@
 # Table of contents
 
-* [🟣    Home](https://kimtoo.net)
-* [🟢   Download](https://kimtooflex.gumroad.com/l/kimtools)
-
 ## Get Started
 
 * [🔹 Welcome](README.md)
