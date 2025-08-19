@@ -35,8 +35,8 @@ Explore the possibilities and elevate your WinForms applications with KimTools S
 
 
 
-{% content-ref url="get-started/download/" %}
-[download](get-started/download/)
+{% content-ref url="get-started/download.md" %}
+[download.md](get-started/download.md)
 {% endcontent-ref %}
 
 
