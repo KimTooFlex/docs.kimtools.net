@@ -1,3 +1,25 @@
+---
+cover: .gitbook/assets/kimtools-shop-banner.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 🔹 Welcome
 
 <figure><img src=".gitbook/assets/3d-box-md.png" alt=""><figcaption></figcaption></figure>
