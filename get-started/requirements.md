@@ -2,7 +2,7 @@
 
 ## System Requirements for KimTools SDK
 
-KimTools requires .NET Framework 4.8 or higher and the Visual Studio IDE (latest version recommended). Below are the hardware, operating system, and software requirements for .NET Framework 4.8.
+KimTools requires .**NET Framework 4.8, .NET6, .NET7, .NET8, .NET9** or **higher** and the Visual Studio IDE (latest version recommended). Below are the hardware, operating system, and software requirements.
 
 #### Hardware Requirements
 

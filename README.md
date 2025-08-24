@@ -22,9 +22,11 @@ layout:
 
 # 🔹 Welcome
 
-<h2 align="center">Welcome to <mark style="color:purple;">KimTools</mark> <mark style="color:blue;">SDK</mark></h2>
+## Welcome to <mark style="color:purple;">KimTools</mark> <mark style="color:blue;">SDK</mark>
 
-<h3 align="center">Unlock the Full Potential of Your Development</h3>
+#### Modern WinForms UI Controls / Components for .NET 6/7/8/9 ++
+
+
 
 
 
@@ -38,8 +40,6 @@ layout:
 Start your development journey with <mark style="color:purple;">**KimTools**</mark>**&#x20;**<mark style="color:blue;">**DevKit**</mark> today and transform your WinForms applications with unmatched efficiency and user satisfaction.
 
 
-
-<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/kimtools_dark_sm.png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src=".gitbook/assets/kimtools-theme-swithch.gif" alt=""><figcaption></figcaption></figure>
 
@@ -58,15 +58,5 @@ With fully visual <mark style="color:purple;">**components and**</mark> no-code 
 Explore the possibilities and elevate your WinForms applications with KimTools SDK. Get started today and experience the difference in development efficiency and user experience.
 
 
-
-{% content-ref url="get-started/download.md" %}
-[download.md](get-started/download.md)
-{% endcontent-ref %}
-
-
-
-
-
-### <mark style="color:green;">💚 Get Early access</mark> &#x20;
 
 ***
