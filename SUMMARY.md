@@ -18,12 +18,19 @@
 * [🔹 Kt-CheckButton ](controls/kt-checkbutton.md)
 * [🔹 Kt-RadioBox](controls/kt-radiobox.md)
 * [🔹 Kt-RadioButton](controls/kt-radiobutton.md)
+* [🔹 Kt-Switch](controls/kt-switch.md)
+* [🔹 Kt-Label](controls/kt-label.md)
+* [🔹 Kt-TextBox](controls/kt-textbox.md)
+* [🔹 Kt-Select](controls/kt-select.md)
+* [🔹 Kt-HTML](controls/kt-html.md)
+* [🔹 Kt-](controls/kt.md)
 
 ## 🔵 COMPONENTS
 
+* [🔹 Kt-Theme](components/kt-theme.md)
 * [🔹 Kt-Tooltips](components/kt-tooltips.md)
 * [🔹 Kt-Toasts](components/kt-toasts.md)
 * [🔹 Kt-Canvas](components/kt-canvas.md)
 * [🔹 Kt-Icons](components/kt-icons.md)
-* [🔹 Kt-Effects](components/kt-effects.md)
+* [🔹 Kt-Transitions](components/kt-transitions.md)
 * [🔹 Kt-PopOver](components/kt-popover.md)
