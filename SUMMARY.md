@@ -22,8 +22,21 @@
 * [🔹 Kt-Label](controls/kt-label.md)
 * [🔹 Kt-TextBox](controls/kt-textbox.md)
 * [🔹 Kt-Select](controls/kt-select.md)
-* [🔹 Kt-HTML](controls/kt-html.md)
-* [🔹 Kt-](controls/kt.md)
+* [🔹 Kt-Html](controls/kt-html.md)
+* [🔹 Kt-Date](controls/kt-date.md)
+* [🔹 Kt-Divider](controls/kt-divider.md)
+* [🔹 Kt-Pages](controls/kt-pages.md)
+* [🔹 Kt-Panel](controls/kt-panel.md)
+* [🔹 Kt-PictureBox](controls/kt-picturebox.md)
+* [🔹 Kt-ProgressBar](controls/kt-progressbar.md)
+* [🔹 Kt-ProgressGauge](controls/kt-progressgauge.md)
+* [🔹 Kt-ProgressRadial](controls/kt-progressradial.md)
+* [🔹 Kt-Rating](controls/kt-rating.md)
+* [🔹 Kt-ScrollBar](controls/kt-scrollbar.md)
+* [🔹 Kt-Shapes](controls/kt-shapes.md)
+* [🔹 Kt-Slider](controls/kt-slider.md)
+* [🔹 Kt-Spinner](controls/kt-spinner.md)
+* [🔹 Kt-Window](controls/kt-window.md)
 
 ## 🔵 COMPONENTS
 
