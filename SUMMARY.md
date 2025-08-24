@@ -11,6 +11,11 @@
 
 * [bunifu](bunifu.md)
 
+## 🔵  UTILITIES
+
+* [🔹 Kt-Color](utilities/kt-color.md)
+* [🔹 Kt-Brush](utilities/kt-brush.md)
+
 ## 🟣    CONTROLS
 
 * [🔹 Kt-Button](controls/kt-button.md)
@@ -36,11 +41,13 @@
 * [🔹 Kt-Shapes](controls/kt-shapes.md)
 * [🔹 Kt-Slider](controls/kt-slider.md)
 * [🔹 Kt-Spinner](controls/kt-spinner.md)
+* [🔹 Kt-Table](controls/kt-table.md)
 * [🔹 Kt-Window](controls/kt-window.md)
 
-## 🔵 COMPONENTS
+## 🟢  COMPONENTS
 
 * [🔹 Kt-Theme](components/kt-theme.md)
+* [🔹 Kt-Validation](components/kt-validation.md)
 * [🔹 Kt-Tooltips](components/kt-tooltips.md)
 * [🔹 Kt-Toasts](components/kt-toasts.md)
 * [🔹 Kt-Canvas](components/kt-canvas.md)
