@@ -22,11 +22,11 @@ layout:
 
 # 🔹 Welcome
 
-<figure><img src=".gitbook/assets/3d-box-md.png" alt=""><figcaption></figcaption></figure>
+<h2 align="center">Welcome to <mark style="color:purple;">KimTools</mark> <mark style="color:blue;">SDK</mark></h2>
 
-## Welcome to <mark style="color:purple;">KimTools</mark> <mark style="color:blue;">DevKit (SDK)</mark>
+<h3 align="center">Unlock the Full Potential of Your Development</h3>
 
-### Unlock the Full Potential of Your Development
+
 
 <mark style="color:purple;">**KimTools**</mark>**&#x20;**<mark style="color:blue;">**DevKit**</mark> is your gateway to creating modern, visually stunning, and highly functional applications with unparalleled ease. Designed with developers in mind, this comprehensive toolkit offers an array of powerful features to enhance your workflow and elevate your projects.
 
@@ -52,6 +52,8 @@ Start your development journey with <mark style="color:purple;">**KimTools**</ma
 With fully visual <mark style="color:purple;">**components and**</mark> no-code <mark style="color:blue;">**designer wizards**</mark> with extensive customization options to minimize coding time and improve accuracy and performance.
 
 <figure><img src=".gitbook/assets/kimtools-theme-toggle.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/KtButton.png" alt=""><figcaption></figcaption></figure>
 
 Explore the possibilities and elevate your WinForms applications with KimTools SDK. Get started today and experience the difference in development efficiency and user experience.
 
