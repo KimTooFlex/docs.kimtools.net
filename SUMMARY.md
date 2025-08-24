@@ -13,8 +13,17 @@
 
 ## 🟣    CONTROLS
 
-* [🔹 KtButton](controls/ui/coming-soon....md)
+* [🔹 Kt-Button](controls/kt-button.md)
+* [🔹 Kt-CheckBox](controls/kt-checkbox.md)
+* [🔹 Kt-CheckButton ](controls/kt-checkbutton.md)
+* [🔹 Kt-RadioBox](controls/kt-radiobox.md)
+* [🔹 Kt-RadioButton](controls/kt-radiobutton.md)
 
 ## 🔵 COMPONENTS
 
-* [Page 1](components/page-1.md)
+* [🔹 Kt-Tooltips](components/kt-tooltips.md)
+* [🔹 Kt-Toasts](components/kt-toasts.md)
+* [🔹 Kt-Canvas](components/kt-canvas.md)
+* [🔹 Kt-Icons](components/kt-icons.md)
+* [🔹 Kt-Effects](components/kt-effects.md)
+* [🔹 Kt-PopOver](components/kt-popover.md)
