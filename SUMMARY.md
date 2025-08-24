@@ -11,9 +11,10 @@
 
 * [bunifu](bunifu.md)
 
-## CONTROLS
+## 🟣    CONTROLS
 
-* [🟣  Ui](controls/ui/README.md)
-  * [🔹 Coming Soon...](controls/ui/coming-soon....md)
-* [🔵  Components](controls/components/README.md)
-  * [🔹 Coming Soon...](controls/components/coming-soon....md)
+* [🔹 KtButton](controls/ktbutton.md)
+
+## 🔵 COMPONENTS
+
+* [Page 1](components/page-1.md)
