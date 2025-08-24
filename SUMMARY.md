@@ -13,7 +13,7 @@
 
 ## 🟣    CONTROLS
 
-* [🔹 KtButton](controls/ktbutton.md)
+* [🔹 KtButton](controls/ui/coming-soon....md)
 
 ## 🔵 COMPONENTS
 
