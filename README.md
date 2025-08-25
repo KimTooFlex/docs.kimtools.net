@@ -1,5 +1,7 @@
 ---
-cover: .gitbook/assets/kimtools-shop-banner.png
+cover:
+  light: .gitbook/assets/kimtools-shop-banner.png
+  dark: .gitbook/assets/Kimtools_banner_white.png
 coverY: 0
 layout:
   width: default
