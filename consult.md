@@ -10,7 +10,7 @@ layout:
   title:
     visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: false
   outline:
@@ -23,12 +23,6 @@ layout:
 
 # consult
 
-##
-
-## <mark style="color:$primary;">KimToo • Consultancy</mark>
-
-***
-
 Work directly with KimToo, creator of **KimTools**, **Bunifu**, and award-winning developer tools.&#x20;
 
 Each consultancy project is built with  modern theming, UIUX and fast delivery cycles. Every client gets the KimTools SDK Ultimate Suite with unlimited license usage at no extra cost, and repeat customers receive a 20% discount. With 13+ years in desktop software, I deliver clean APIs, maintainable code, and production-ready solutions with full docs and samples. No outsourcing—your project is crafted by me, with speed and quality guaranteed.
@@ -37,7 +31,7 @@ Each consultancy project is built with  modern theming, UIUX and fast delivery c
 
 * UI/UX redesign and modern facelift for legacy apps
 * Windows Desktop Applications/Bots
-* Database Applications using Entity Framework (MySQL, Microsoft SqlServer)&#x20;
+* Database Applications using Entity Framework (MySQL, Microsoft SQL Server)&#x20;
 * Custom/Bespoke WinForms controls, components, and design-time tooling
 * Theming systems (Tailwind-inspired tokens, dark/light modes)
 * High-performance data grids, charts, and dashboard Visualizations.
@@ -48,6 +42,8 @@ Each consultancy project is built with  modern theming, UIUX and fast delivery c
 ***
 
 <figure><img src=".gitbook/assets/fiverr_order.png" alt="https://www.fiverr.com/s/qDgW9BX" width="188"><figcaption></figcaption></figure>
+
+<h2 align="center"><a href="https://www.fiverr.com/s/qDgW9BX"> Order with Fiverr</a></h2>
 
 ***
 
@@ -69,14 +65,9 @@ Each consultancy project is built with  modern theming, UIUX and fast delivery c
 * NDA required? \[Yes/No]
 * Attachments (zip/pdf)
 
+## [Talk to Us](mailto:contact@kimtoo.net)
 
-
-***
-
-### Call to Action
-
-[🔹 Order with Fiverr](https://www.fiverr.com/s/qDgW9BX)\
-[🔹 Talk to Us](mailto:contact@kimtoo.net)
+## contact@kimtoo.net
 
 ***
 
