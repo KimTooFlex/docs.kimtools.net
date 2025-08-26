@@ -57,11 +57,3 @@ layout:
 {% endtab %}
 {% endtabs %}
 
-
-
-***
-
-### Legal
-
-Work is provided under a services agreement and SOW.\
-GDPR-friendly. Kenya-based, global clients.
