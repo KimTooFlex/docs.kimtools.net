@@ -10,6 +10,7 @@
 ***
 
 * [bunifu](bunifu.md)
+* [consult](consult.md)
 
 ## 🔵  UTILITIES
 
