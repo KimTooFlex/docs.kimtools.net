@@ -49,13 +49,15 @@ layout:
 {% endtab %}
 
 {% tab title="🗨️️ REQUEST QUOTE" %}
-<h2 align="center">Request a Quote</h2>
+<h2 align="center"><img src=".gitbook/assets/contact-us-illustration-svg-png-download-2912018.png" alt=""></h2>
+
+<h2 align="center">Talk to us, Request a Quote</h2>
 
 <h3 align="center"> <a href="mailto:contact@kimtoo.net">contact@kimtoo.net</a></h3>
-
-
 {% endtab %}
 {% endtabs %}
+
+
 
 ***
 
