@@ -23,11 +23,11 @@ layout:
 
 # consult
 
-Work directly with KimToo, creator of **KimTools**, **Bunifu**, and award-winning developer tools.&#x20;
+<p align="center">Work directly with KimToo, creator of <strong>KimTools</strong>, <strong>Bunifu</strong>, and award-winning developer tools. </p>
 
-Each consultancy project is built with  modern theming, UIUX and fast delivery cycles. Every client gets the KimTools SDK Ultimate Suite with unlimited license usage at no extra cost, and repeat customers receive a 20% discount. With 13+ years in desktop software, I deliver clean APIs, maintainable code, and production-ready solutions with full docs and samples. No outsourcing—your project is crafted by me, with speed and quality guaranteed.
+<p align="center">Each consultancy project is built with  modern theming, UIUX and fast delivery cycles. Every client gets the KimTools SDK Ultimate Suite with unlimited license usage at no extra cost, and repeat customers receive a 20% discount. With 13+ years in desktop software, I deliver clean APIs, maintainable code, and production-ready solutions with full docs and samples. No outsourcing—your project is crafted by me, with speed and quality guaranteed.</p>
 
-### What I Do
+<h2 align="center"><mark style="color:$primary;">What I Do</mark></h2>
 
 * UI/UX redesign and modern facelift for legacy apps
 * Windows Desktop Applications/Bots
@@ -37,39 +37,25 @@ Each consultancy project is built with  modern theming, UIUX and fast delivery c
 * High-performance data grids, charts, and dashboard Visualizations.
 * Custom Developer tools: validators, wizards, project templates
 
-
-
 ***
 
-<figure><img src=".gitbook/assets/fiverr_order.png" alt="https://www.fiverr.com/s/qDgW9BX" width="188"><figcaption></figcaption></figure>
+{% tabs %}
+{% tab title="FIVERR" %}
+<figure><img src=".gitbook/assets/fiverr_order.png" alt="" width="188"><figcaption></figcaption></figure>
 
 <h2 align="center"><a href="https://www.fiverr.com/s/qDgW9BX"> Order with Fiverr</a></h2>
 
-***
 
-### Request a Quote
+{% endtab %}
 
-**Email:** contact@kimtoo.net\
-**Or use the form below.**
+{% tab title="REQUEST AQUOTE" %}
+<h2 align="center">Request a Quote</h2>
 
-**Project Brief Form**
+<h3 align="center"> <a href="mailto:contact@kimtoo.net">contact@kimtoo.net</a></h3>
 
-* Name, email, company
-* Project type: facelift / custom control / tooling / other
-* Tech stack and versions (dotNET target, WinForms)
-* Goals and pain points
-* Deliverables you expect
-* Deadline and time zone
-* Budget range (USD)
-* Links (repo, screenshots, mockups)
-* NDA required? \[Yes/No]
-* Attachments (zip/pdf)
 
-## [Talk to Us](mailto:contact@kimtoo.net)
-
-## contact@kimtoo.net
-
-***
+{% endtab %}
+{% endtabs %}
 
 ***
 
