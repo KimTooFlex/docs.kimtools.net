@@ -40,7 +40,7 @@ layout:
 ***
 
 {% tabs %}
-{% tab title="FIVERR" %}
+{% tab title="🟢    FIVERR ORDER" %}
 <figure><img src=".gitbook/assets/fiverr_order.png" alt="" width="188"><figcaption></figcaption></figure>
 
 <h2 align="center"><a href="https://www.fiverr.com/s/qDgW9BX"> Order with Fiverr</a></h2>
@@ -48,7 +48,7 @@ layout:
 
 {% endtab %}
 
-{% tab title="REQUEST AQUOTE" %}
+{% tab title="🗨️️ REQUEST QUOTE" %}
 <h2 align="center">Request a Quote</h2>
 
 <h3 align="center"> <a href="mailto:contact@kimtoo.net">contact@kimtoo.net</a></h3>
