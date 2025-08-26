@@ -1,10 +1,12 @@
 ---
-description: >-
-  Custom UI, branded controls, and legacy app facelifts for dotNET WinForms and
-  desktop.
 hidden: true
+cover: .gitbook/assets/big-idea-banner.gif
+coverY: 56.884380455916194
 layout:
   width: default
+  cover:
+    visible: true
+    size: full
   title:
     visible: false
   description:
