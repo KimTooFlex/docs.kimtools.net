@@ -1,7 +1,7 @@
 ---
 hidden: true
 cover: .gitbook/assets/big-idea-banner.gif
-coverY: 56.884380455916194
+coverY: 2.70876939330212
 layout:
   width: default
   cover:
