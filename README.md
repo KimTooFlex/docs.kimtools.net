@@ -55,7 +55,7 @@ With fully visual <mark style="color:purple;">**components and**</mark> no-code 
 
 <figure><picture><source srcset=".gitbook/assets/kt_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/kt_light.png" alt=""></picture><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/KtButton.png" alt=""><figcaption></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/KtButton.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/KtButton-light.png" alt=""></picture><figcaption></figcaption></figure>
 
 Explore the possibilities and elevate your WinForms applications with KimTools SDK. Get started today and experience the difference in development efficiency and user experience.
 
