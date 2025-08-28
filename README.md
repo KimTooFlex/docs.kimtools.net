@@ -53,7 +53,7 @@ Start your development journey with <mark style="color:purple;">**KimTools**</ma
 
 With fully visual <mark style="color:purple;">**components and**</mark> no-code <mark style="color:blue;">**designer wizards**</mark> with extensive customization options to minimize coding time and improve accuracy and performance.
 
-<figure><img src=".gitbook/assets/kimtools-theme-toggle.gif" alt=""><figcaption></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/kt_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/kt_light.png" alt=""></picture><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/KtButton.png" alt=""><figcaption></figcaption></figure>
 
