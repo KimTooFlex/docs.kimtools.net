@@ -34,6 +34,8 @@ layout:
 * .NET8
 * .NET9
 
+<figure><img src=".gitbook/assets/Kimtools_Sept_Marketing.png" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:purple;">**KimTools**</mark>**&#x20;**<mark style="color:blue;">**DevKit**</mark> is your gateway to creating modern, visually stunning, and highly functional applications with unparalleled ease. Designed with developers in mind, this comprehensive toolkit offers an array of powerful features to enhance your workflow and elevate your projects.
 
 * <mark style="color:blue;">**Enhanced UI Components**</mark><mark style="color:blue;">:</mark> Leverage versatile UI components tailored for WinForms, enabling you to build responsive and visually appealing interfaces with minimal effort.
