@@ -26,11 +26,13 @@ layout:
 
 ## Welcome to <mark style="color:purple;">KimTools</mark> <mark style="color:blue;">SDK</mark>
 
-#### Modern WinForms UI Controls / Components for .NET 6/7/8/9 ++
+#### Modern WinForms UI Controls / Components for .NET
 
-
-
-
+* .NET Framework
+* .NET6
+* .NET7
+* .NET8
+* .NET9
 
 <mark style="color:purple;">**KimTools**</mark>**&#x20;**<mark style="color:blue;">**DevKit**</mark> is your gateway to creating modern, visually stunning, and highly functional applications with unparalleled ease. Designed with developers in mind, this comprehensive toolkit offers an array of powerful features to enhance your workflow and elevate your projects.
 
