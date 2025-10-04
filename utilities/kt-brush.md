@@ -307,15 +307,6 @@ JToken json = brush;
 
 ### Getting Started
 
-#### Installation
-
-```bash
-# NuGet (when published)
-Install-Package KimTools.WinForms
-
-# Or add to your project directly
-```
-
 #### Basic Usage
 
 ```csharp
@@ -350,39 +341,6 @@ gradient.StopColor = "#4ECDC4";
 
 ***
 
-### Why KtBrush Changes Everything
-
-#### For Solo Developers
-
-* **Ship faster** - Less boilerplate means more features
-* **Fewer bugs** - Type safety catches errors at compile time
-* **Easy refactoring** - Change brush implementations without touching usage code
-
-#### For Teams
-
-* **Consistent patterns** - Everyone uses the same brush API
-* **Designer-friendly** - Junior devs can modify brushes in PropertyGrid
-* **Code reviews are easier** - Less code to review, clearer intent
-
-#### For Enterprises
-
-* **Maintainable codebases** - Less code means lower maintenance cost
-* **Modern UI capabilities** - Compete with web apps visually
-* **Future-proof** - Extensible architecture grows with your needs
-
-***
-
-### What Developers Are Saying
-
-> "I spent two days fighting with LinearGradientBrush in the designer. KtBrush solved it in 10 minutes."\
-> — _WinForms Developer, Fortune 500_
-
-> "Finally, WinForms brushes that don't make me want to switch to WPF."\
-> — _Desktop App Architect_
-
-> "The implicit operators alone saved us thousands of lines of code."\
-> — _Lead Developer, Enterprise Software_
-
 ***
 
 ### The Bottom Line
@@ -395,13 +353,6 @@ Stop fighting your UI framework. Start shipping beautiful applications.
 
 ***
 
-### Learn More
-
-* **GitHub**: \[Your Repository Here]
-* **Documentation**: \[Full API Docs]
-* **Examples**: \[Sample Projects]
-* **Support**: \[Issues/Discussions]
-
 ***
 
-_Built with ❤️ for the WinForms community_
+_Built with ❤️ for the Legacy WinForms community_
