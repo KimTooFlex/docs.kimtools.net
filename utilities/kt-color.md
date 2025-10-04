@@ -6,6 +6,8 @@ description: Human-Centered Color System for .NET
 
 ### **The only alternative to System.Drawing.Color built on actual color theory**
 
+_Because color management shouldn't require a PhD in color theory_
+
 ***
 
 ### Overview
@@ -914,16 +916,6 @@ var final = translucent.Opaque(backgroundColor);
 * `~` - Auto-contrast
 * `|` - Coalesce
 * `==`, `!=`, `<`, `>` - Compare
-
-***
-
-### Resources
-
-* **GitHub**: \[Your Repository]
-* **NuGet**: `KimTools.WinForms`
-* **Documentation**: Full API reference
-* **Examples**: Sample applications
-* **License**: \[Your License]
 
 ***
 
