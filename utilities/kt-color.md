@@ -1,10 +1,31 @@
 ---
 description: Human-Centered Color System for .NET
+cover:
+  light: ../.gitbook/assets/colors_light.png
+  dark: ../.gitbook/assets/colors_dark.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🔹 Kt-Color
 
-### **The only alternative to System.Drawing.Color built on actual color theory**
+## <mark style="color:$primary;">**The only alternative to System.Drawing.Color built on actual color theory**</mark>
 
 _Because color management shouldn't require a PhD in color theory_
 
