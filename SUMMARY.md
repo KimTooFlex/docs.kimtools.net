@@ -19,6 +19,7 @@
 
 ## 🟣    CONTROLS
 
+* [🔹 Kt-Window](controls/kt-window.md)
 * [🔹 Kt-Button](controls/kt-button.md)
 * [🔹 Kt-CheckBox](controls/kt-checkbox.md)
 * [🔹 Kt-CheckButton ](controls/kt-checkbutton.md)
@@ -43,7 +44,6 @@
 * [🔹 Kt-Slider](controls/kt-slider.md)
 * [🔹 Kt-Spinner](controls/kt-spinner.md)
 * [🔹 Kt-Table](controls/kt-table.md)
-* [🔹 Kt-Window](controls/kt-window.md)
 
 ## 🟢  COMPONENTS
 
