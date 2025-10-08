@@ -28,7 +28,9 @@ layout:
 
 KtTable is a modern, feature-rich data table component for WinForms that provides beautiful rendering, custom cell types, and instant search functionality. Built on top of KtColor, KtBrush, and KtIcons for consistent theming and styling.
 
-<figure><picture><source srcset="../.gitbook/assets/ktTable-Dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/KtTable-Light.png" alt=""></picture><figcaption></figcaption></figure>
+
+
+{% embed url="https://www.youtube.com/watch?v=d4zHYmXH33A" %}
 
 ***
 
@@ -73,6 +75,8 @@ ktTable1.Padding = new Padding(5);
 ***
 
 ### Column Configuration
+
+<figure><picture><source srcset="../.gitbook/assets/ktTable-Dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/KtTable-Light.png" alt=""></picture><figcaption></figcaption></figure>
 
 #### Column Types
 
