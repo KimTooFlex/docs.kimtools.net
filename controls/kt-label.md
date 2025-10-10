@@ -54,11 +54,6 @@
 
 KtLabel automatically subscribes to theme change events and updates its appearance accordingly:
 
-```csharp
-// Automatic theme response
-KtColor.ThemeChanged += Render;
-```
-
 When the system switches between light and dark modes, all KtLabel instances update their colors automatically without requiring code intervention.
 
 #### 2. Intelligent Color Inheritance
@@ -69,19 +64,9 @@ The control implements a smart color resolution system:
 2. If `Color` is `KtColor.Empty`, inherit from parent control's `ForeColor`
 3. Fallback to current `ForeColor` if no parent is available
 
-```csharp
-this.ForeColor = this.Color == KtColor.Empty
-    ? Parent?.ForeColor ?? this.ForeColor
-    : this.Color;
-```
-
 #### 3. Transparent Integration
 
 The label automatically sets its background to transparent, ensuring seamless integration with parent containers:
-
-```csharp
-this.BackColor = System.Drawing.Color.Transparent;
-```
 
 ***
 
