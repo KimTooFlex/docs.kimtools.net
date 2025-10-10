@@ -1,3 +1,20 @@
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 🔹 Kt-Window
 
 KtWindow is a modern, feature-rich window/form component for WinForms that brings beautiful dark mode support, gradient backgrounds, and flicker-free rendering to your applications. Built with native Windows API optimizations for professional, smooth user experiences.
