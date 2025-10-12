@@ -30,7 +30,6 @@
 * [🔹 Kt-Label](controls/kt-label.md)
 * [🔹 Kt-TextBox](controls/kt-textbox.md)
 * [🔹 Kt-Select](controls/kt-select.md)
-* [🔹 Kt-Html](controls/kt-html.md)
 * [🔹 Kt-Date](controls/kt-date.md)
 * [🔹 Kt-Divider](controls/kt-divider.md)
 * [🔹 Kt-Pages](controls/kt-pages.md)
@@ -44,6 +43,7 @@
 * [🔹 Kt-Shapes](controls/kt-shapes.md)
 * [🔹 Kt-Slider](controls/kt-slider.md)
 * [🔹 Kt-Spinner](controls/kt-spinner.md)
+* [🔹 Kt-Html](controls/kt-html.md)
 
 ## 🟢  COMPONENTS
 

@@ -21,8 +21,6 @@ layout:
 
 **KtSelect** is a beautifully crafted, theme-intelligent dropdown control from the KimTools.WinForms SDK that transforms standard item selection into an elegant user experience. Featuring automatic theme adaptation, extensive customization options, and smooth visual transitions, KtSelect elevates the traditional Windows Forms ComboBox to match modern design standards.
 
-> _"Bring style and elegance to your item selections"_
-
 #### Why Choose KtSelect?
 
 * **🎨 Theme Intelligence**: Automatically adapts to light/dark themes without code changes
