@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🔙  HOME](https://kimtoo.net/)
+* [Home](https://kimtoo.net/)
+* [Pricing](https://kimtoo.net/#pricing)
 
 ## Get Started
 
