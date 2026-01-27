@@ -1,5 +1,7 @@
 # Table of contents
 
+* [🔙  HOME](https://kimtoo.net/)
+
 ## Get Started
 
 * [🔹 Welcome](README.md)

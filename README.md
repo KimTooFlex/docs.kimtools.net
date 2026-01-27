@@ -28,7 +28,7 @@ layout:
 
 #### Modern WinForms UI Controls / Components for .NET
 
-* .NET Framework
+* .NET Framework 4.6 - 4.8
 * .NET6
 * .NET7
 * .NET8
