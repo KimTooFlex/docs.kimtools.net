@@ -1,4 +1,5 @@
 ---
+icon: bar-progress-quarter
 layout:
   width: default
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-CheckButton&#x20;
+# CheckButton
 
 ### Overview
 

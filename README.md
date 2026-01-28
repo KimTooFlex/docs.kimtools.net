@@ -1,4 +1,5 @@
 ---
+icon: layer-plus
 cover:
   light: .gitbook/assets/kimtools-shop-banner.png
   dark: .gitbook/assets/Kimtools_banner_white.png
@@ -22,7 +23,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Welcome
+# Welcome
 
 ## Welcome to <mark style="color:purple;">KimTools</mark> <mark style="color:blue;">SDK</mark>
 

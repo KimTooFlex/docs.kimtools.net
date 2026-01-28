@@ -1,4 +1,5 @@
 ---
+icon: square-check
 layout:
   width: default
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-CheckBox
+# CheckBox
 
 ### Overview
 

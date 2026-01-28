@@ -1,4 +1,5 @@
 ---
+icon: circle-dot
 layout:
   width: default
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-RadioBox
+# Radio Box
 
 ### Overview
 

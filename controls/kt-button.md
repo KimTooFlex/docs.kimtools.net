@@ -1,16 +1,17 @@
 ---
 description: A powerful and composable button component for your application.
+icon: rectangle-wide
 cover:
-  light: ../../.gitbook/assets/KtButton-light.png
-  dark: ../../.gitbook/assets/KtButton.png
+  light: ../.gitbook/assets/KtButton-light.png
+  dark: ../.gitbook/assets/KtButton.png
 coverY: 0
 ---
 
-# 🔹 KtButton
+# Button
 
 
 
-<figure><picture><source srcset="../../.gitbook/assets/KtButton.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/KtButton-light.png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/KtButton.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/KtButton-light.png" alt=""></picture><figcaption></figcaption></figure>
 
 
 
@@ -39,4 +40,4 @@ Use primary buttons sparingly, mostly for form submissions.
 * Outline
 * Ghost (No Bg and Border)
 
-<div><figure><img src="../../.gitbook/assets/ktbutton-variants (2).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/ktbutton-variants.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/ktbutton-variants (2).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ktbutton-variants.png" alt=""><figcaption></figcaption></figure></div>

@@ -1,8 +1,9 @@
 ---
 description: Installation and Upgrade Guide
+icon: arrow-down-to-line
 ---
 
-# 🔹 Install & Upgrade
+# Install & Upgrade
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

@@ -5,29 +5,25 @@
 
 ## Get Started
 
-* [🔹 Welcome](README.md)
+* [Welcome](README.md)
 * [🔹 Download](get-started/download.md)
-* [🔹 Requirements ](get-started/requirements.md)
-* [🔹 Install & Upgrade](get-started/install-and-upgrade.md)
+* [Requirements ](get-started/requirements.md)
+* [Install & Upgrade](get-started/install-and-upgrade.md)
 
-***
+## UTILITIES
 
-* [bunifu](bunifu.md)
-* [consult](consult.md)
+* [Colors](utilities/kt-color.md)
+* [Brushes](utilities/kt-brush.md)
 
-## 🔵  UTILITIES
+## CONTROLS
 
-* [🔹 Kt-Color](utilities/kt-color.md)
-* [🔹 Kt-Brush](utilities/kt-brush.md)
-
-## 🟣    CONTROLS
-
-* [🔹 Kt-Window](controls/kt-window.md)
-* [🔹 Kt-Button](controls/kt-button.md)
-* [🔹 Kt-Table](controls/kt-table.md)
-* [🔹 Kt-CheckBox](controls/kt-checkbox.md)
-* [🔹 Kt-CheckButton ](controls/kt-checkbutton.md)
-* [🔹 Kt-RadioBox](controls/kt-radiobox.md)
+* [Window](controls/kt-window.md)
+* [Button](controls/kt-button.md)
+* [Table](controls/kt-table.md)
+* [Check](controls/check/README.md)
+  * [CheckBox](controls/check/kt-checkbox.md)
+  * [CheckButton](controls/check/kt-checkbutton.md)
+* [Radio Box](controls/kt-radiobox.md)
 * [🔹 Kt-RadioButton](controls/kt-radiobutton.md)
 * [🔹 Kt-Switch](controls/kt-switch.md)
 * [🔹 Kt-Label](controls/kt-label.md)

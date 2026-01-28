@@ -1,4 +1,8 @@
-# 🔹 Requirements&#x20;
+---
+icon: check-double
+---
+
+# Requirements&#x20;
 
 ## System Requirements for KimTools SDK
 

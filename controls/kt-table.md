@@ -1,4 +1,5 @@
 ---
+icon: table-cells-rows
 cover:
   light: ../.gitbook/assets/kt_light.png
   dark: ../.gitbook/assets/kt_dark.png
@@ -22,7 +23,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-Table
+# Table
 
 ### Overview
 

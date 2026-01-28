@@ -1,5 +1,6 @@
 ---
 description: Human-Centered Color System for .NET
+icon: palette
 cover:
   light: ../.gitbook/assets/colors_light.png
   dark: ../.gitbook/assets/colors_dark.png
@@ -23,7 +24,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-Color
+# Colors
 
 ## <mark style="color:$primary;">**The only alternative to System.Drawing.Color built on actual color theory**</mark>
 

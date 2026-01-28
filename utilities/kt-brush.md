@@ -1,8 +1,9 @@
 ---
 description: Modern Brush System for WinForms
+icon: paintbrush
 ---
 
-# 🔹 Kt-Brush
+# Brushes
 
 ### <mark style="color:$primary;">The Problem with Traditional WinForms UI</mark>
 

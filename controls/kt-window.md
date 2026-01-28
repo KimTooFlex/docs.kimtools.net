@@ -1,4 +1,5 @@
 ---
+icon: window-flip
 layout:
   width: wide
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-Window
+# Window
 
 KtWindow is a modern, feature-rich window/form component for WinForms that brings beautiful dark mode support, gradient backgrounds, and flicker-free rendering to your applications. Built with native Windows API optimizations for professional, smooth user experiences.
 
