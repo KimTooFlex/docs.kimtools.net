@@ -1,4 +1,5 @@
 ---
+icon: toggle-large-on
 layout:
   width: wide
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-Switch
+# Switch
 
 ### Overview
 

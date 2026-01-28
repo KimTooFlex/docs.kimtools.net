@@ -1,4 +1,5 @@
 ---
+icon: calendar
 layout:
   width: wide
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-Date
+# Date
 
 
 

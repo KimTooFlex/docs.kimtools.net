@@ -1,2 +1,6 @@
-# 🔹 Kt-Divider
+---
+icon: horizontal-rule
+---
+
+# Divider
 

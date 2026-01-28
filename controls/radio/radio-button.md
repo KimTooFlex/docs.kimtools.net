@@ -1,4 +1,5 @@
 ---
+icon: bar-progress-full
 layout:
   width: wide
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-RadioButton
+# Radio Button
 
 ### Overview
 

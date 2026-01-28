@@ -1,4 +1,5 @@
 ---
+icon: text-width
 layout:
   width: wide
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-Label
+# Label
 
 ### Overview
 

@@ -1,4 +1,5 @@
 ---
+icon: input-pipe
 layout:
   width: wide
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-TextBox
+# TextBox
 
 ### Overview
 

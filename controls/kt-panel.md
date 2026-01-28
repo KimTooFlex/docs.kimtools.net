@@ -1,2 +1,6 @@
-# 🔹 Kt-Panel
+---
+icon: pager
+---
+
+# Panel
 

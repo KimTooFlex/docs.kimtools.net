@@ -1,4 +1,5 @@
 ---
+icon: circle-chevron-down
 layout:
   width: wide
   title:
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔹 Kt-Select
+# Select
 
 ### Overview
 
