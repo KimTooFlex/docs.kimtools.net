@@ -547,4 +547,4 @@ KtTable provides a complete modern table solution with:
 * ✅ **JSON support** - Built-in parsing for API integration
 * ✅ **High performance** - Optimized rendering for large datasets
 
-For more information about [KtColor](../utilities/kt-color.md), [KtBrush](../utilities/kt-brush.md), and [KtIcons](../components/kt-icons.md), refer to their respective documentation.
+For more information about [KtColor](../utilities/kt-color.md), [KtBrush](../utilities/kt-brush.md), and [KtIcons](../components/icon.md), refer to their respective documentation.

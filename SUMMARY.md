@@ -44,14 +44,16 @@
 * [Slider](controls/slider.md)
 * [Spinner](controls/spinner.md)
 * [Html](controls/html.md)
+* [Menu](controls/menu.md)
+* [Slot](controls/slot.md)
 
-## 🟢  COMPONENTS
+## COMPONENTS
 
-* [🔹 Kt-Theme](components/kt-theme.md)
-* [🔹 Kt-Validation](components/kt-validation.md)
-* [🔹 Kt-Tooltips](components/kt-tooltips.md)
-* [🔹 Kt-Toasts](components/kt-toasts.md)
-* [🔹 Kt-Canvas](components/kt-canvas.md)
-* [🔹 Kt-Icons](components/kt-icons.md)
-* [🔹 Kt-Transitions](components/kt-transitions.md)
-* [🔹 Kt-PopOver](components/kt-popover.md)
+* [Theme](components/theme.md)
+* [Validation](components/validation.md)
+* [Tooltip](components/tooltip.md)
+* [Toast / Notification](components/toast-notification.md)
+* [Canvas](components/canvas.md)
+* [Icon](components/icon.md)
+* [Transition](components/transition.md)
+* [Pop Over](components/pop-over.md)
