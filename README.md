@@ -21,48 +21,94 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Welcome
 
-## Welcome to <mark style="color:purple;">KimTools</mark> <mark style="color:blue;">SDK</mark>
+### KimTools.WinForms <a href="#kimtoolswinforms" id="kimtoolswinforms"></a>
 
-#### Modern WinForms UI Controls / Components for .NET
+A modern WinForms control suite for .NET developers - polished, consistent, and designed to replace the controls you've been fighting with for years. Whether you're on the Free or Plus+ tier, you've got everything you need to ship a desktop app that actually looks great.
 
-* .NET Framework 4.6 - 4.8
-* .NET6
-* .NET7
-* .NET8
-* .NET9
+Targets **.NET Framework 4.6.2+** and **.NET 8.0 (Windows)** - no migration needed, it works wherever your WinForms project works.
 
-<figure><img src=".gitbook/assets/Kimtools_Sept_Marketing.png" alt=""><figcaption></figcaption></figure>
+#### What's Included <a href="#whats-included" id="whats-included"></a>
 
-<mark style="color:purple;">**KimTools**</mark>**&#x20;**<mark style="color:blue;">**DevKit**</mark> is your gateway to creating modern, visually stunning, and highly functional applications with unparalleled ease. Designed with developers in mind, this comprehensive toolkit offers an array of powerful features to enhance your workflow and elevate your projects.
+KimTools ships in two licensed tiers, plus a set of free utility classes available to everyone.
 
-* <mark style="color:blue;">**Enhanced UI Components**</mark><mark style="color:blue;">:</mark> Leverage versatile UI components tailored for WinForms, enabling you to build responsive and visually appealing interfaces with minimal effort.
-* <mark style="color:blue;">**10,000+ Inbuilt Vector Icons**</mark><mark style="color:blue;">:</mark> Explore a vast library of over 10,000 vector icons, complete with an intuitive Icon Picker. Tailwind-inspired theming and drag-and-drop functionality make it easy to customize and integrate icons into your designs.
-* <mark style="color:blue;">**Seamless Theming Options**</mark><mark style="color:blue;">:</mark> Effortlessly apply and customize themes, including dark mode, to create a cohesive and modern user experience across your application.
-* <mark style="color:blue;">**No-Code Validation Wizard**</mark><mark style="color:blue;">:</mark> Simplify the implementation of complex validation rules with our no-code wizard. Choose from a wide range of options to ensure your forms and data inputs are accurate and user-friendly.
+**Legend:** 🔵 Utility    🟢 Free Control    🟣 Plus+ Control
 
-Start your development journey with <mark style="color:purple;">**KimTools**</mark>**&#x20;**<mark style="color:blue;">**DevKit**</mark> today and transform your WinForms applications with unmatched efficiency and user satisfaction.
+**Utilities**
 
+Free to all - no license required.
 
+* 🔵 **Kt-Color** - Color palette and theme helper for consistent app-wide styling
+* 🔵 **Kt-Brush** - Brush factory for reusable GDI+ drawing resources
+* 🔵 **Kt-Icons** - Library of 10,000+ SVG icons ready to use in your WinForms app
 
-<figure><img src=".gitbook/assets/kimtools-theme-swithch.gif" alt=""><figcaption></figcaption></figure>
+**Free Controls**
 
-**E**quip <mark style="color:purple;">**.NET**</mark> and <mark style="color:blue;">**Visual Studio IDE**</mark> with a full collection of data centered tools to help you create beautiful, modern and future-proof applications quickly and intuitively. Whether you're a seasoned developer or new to WinForms development, this documentation provides step-by-step instructions, examples, and best practices to maximize the potential of KimTools SDK in your projects.&#x20;
+Included with your KimTools Free license.
 
-<div><figure><img src=".gitbook/assets/kimtools-table.gif" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/kimtools-widgets.gif" alt=""><figcaption></figcaption></figure></div>
+* 🟢 **Kt-Button** - Modern push button with consistent hover and click states
+* 🟢 **Kt-CheckBox** - Styled checkbox with clean label alignment
+* 🟢 **Kt-Label** - Lightweight label with typography-friendly defaults
+* 🟢 **Kt-Mask** - Masked input for formatted data entry (dates, phone numbers, etc.)
+* 🟢 **Kt-Page** - Single page container, pairs with Kt-Pages
+* 🟢 **Kt-Pages** - Multi-page tab and navigation container
+* 🟢 **Kt-ProgressBar** - Smooth, customizable linear progress indicator
+* 🟢 **Kt-RadioBox** - Styled radio button group control
+* 🟢 **Kt-Scroll** - Custom scrollbar with modern styling
+* 🟢 **Kt-Window** - Custom window chrome - title bar, borders, and controls
 
-### Don't Re-invent The Wheel Every Time  <img src="https://img.daisyui.com/images/emoji/yawning-face@80.webp" alt="yawing face emoji" data-size="line">&#x20;
+**Plus+ Controls**
 
-With fully visual <mark style="color:purple;">**components and**</mark> no-code <mark style="color:blue;">**designer wizards**</mark> with extensive customization options to minimize coding time and improve accuracy and performance.
+Everything in Free with extended features, plus 24 exclusive controls. Included with your KimTools Plus+ license.
 
-<figure><picture><source srcset=".gitbook/assets/kt_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/kt_light.png" alt=""></picture><figcaption></figcaption></figure>
+* 🟣 **Kt-CheckButton** - Toggle-style check button for toolbar and option UIs
+* 🟣 **Kt-ControlBox** - Custom min/max/close window control box
+* 🟣 **Kt-Date** - Date picker control with calendar popup
+* 🟣 **Kt-Divider** - Visual section divider / horizontal rule
+* 🟣 **Kt-FormTools** - Form-level utility helpers and layout tools
+* 🟣 **Kt-LabelHtml** - Label control with inline HTML rendering
+* 🟣 **Kt-Menu** - Modern styled menu control
+* 🟣 **Kt-PictureBox** - Enhanced image display with fit/fill/zoom modes
+* 🟣 **Kt-Popover** - Contextual popover / flyout panel
+* 🟣 **Kt-Progress** - Extended progress control with label and states
+* 🟣 **Kt-ProgressRadial** - Radial/circular progress indicator
+* 🟣 **Kt-RadialGauge** - Circular gauge for dashboards and data display
+* 🟣 **Kt-RadioButton** - Standalone styled radio button
+* 🟣 **Kt-Shapes** - Primitive shape drawing controls
+* 🟣 **Kt-Slider** - Horizontal range slider input
+* 🟣 **Kt-SliderVert** - Vertical range slider input
+* 🟣 **Kt-StarRating** - Interactive star rating input
+* 🟣 **Kt-Svg** - SVG image renderer for WinForms
+* 🟣 **Kt-SvgCanvas** - Interactive SVG drawing canvas
+* 🟣 **Kt-Switch** - Toggle switch control (on/off)
+* 🟣 **Kt-Table** - Data table control with column and row support
+* 🟣 **Kt-Toasts** - Toast notification system
+* 🟣 **Kt-Tooltips** - Custom styled tooltip control
+* 🟣 **Kt-Select** - Dropdown select replacing the default ComboBox
+* 🟣 **Kt-Textbox** - Feature-rich text input with placeholder support
+* 🟣 **Kt-Panel** - Container panel for layout and grouping
 
-<figure><picture><source srcset=".gitbook/assets/KtButton.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/KtButton-light.png" alt=""></picture><figcaption></figcaption></figure>
+#### Licensing <a href="#licensing" id="licensing"></a>
 
-Explore the possibilities and elevate your WinForms applications with KimTools SDK. Get started today and experience the difference in development efficiency and user experience.
+Both Free and Plus+ members receive a license key tied to their KimToo.net account, verified automatically when you sign in through the app - no manual key entry needed.
+
+* 🔵 Utilities (Kt-Color, Kt-Brush, Kt-Icons) - free to all, no license needed
+* 🟢 Free license - unlocks all 14 Free controls
+* 🟣 Plus+ license - unlocks all Free controls plus 25 exclusive Plus+ controls
+
+Make sure you're connected to the internet on first launch so KimTools can confirm your membership. Once verified, your controls are unlocked in the Visual Studio Toolbox and available in code - no extra steps.
+
+#### Need Help? <a href="#need-help" id="need-help"></a>
+
+* 🌐 [KimToo.net](https://kimtoo.net/)
+* 🎫 [Support](https://support.kimtoo.net/) - submit a support ticket, request a feature, or report a bug
 
 
 
