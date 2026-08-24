@@ -1,6 +1,0 @@
----
-icon: pager
----
-
-# Panel
-

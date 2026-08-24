@@ -1,6 +1,0 @@
----
-icon: file-svg
----
-
-# Icon
-

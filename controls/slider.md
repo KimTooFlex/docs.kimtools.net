@@ -1,6 +1,0 @@
----
-icon: sliders-simple
----
-
-# Slider
-

@@ -1,6 +1,0 @@
----
-icon: scroll
----
-
-# Scroll Bar
-

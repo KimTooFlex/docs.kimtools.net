@@ -1,6 +1,0 @@
----
-icon: star
----
-
-# Rating
-

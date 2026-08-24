@@ -1,6 +1,0 @@
----
-icon: paint-roller
----
-
-# Theme
-

@@ -1,6 +1,0 @@
----
-icon: horizontal-rule
----
-
-# Divider
-

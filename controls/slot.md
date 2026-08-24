@@ -1,6 +1,0 @@
----
-icon: bring-forward
----
-
-# Slot
-
